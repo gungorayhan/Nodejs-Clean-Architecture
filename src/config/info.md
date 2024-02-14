@@ -1,0 +1,1 @@
+env den gelenleri yakalayarak program içerisne entegre ettiğimzi kısım 

@@ -1,0 +1,1 @@
+projede kuralları soyut olarak belirlediğimiz yer. burada berlielenen kuralları repository ve interaactor tarafına uygulamaktayız
